@@ -23,7 +23,6 @@ You'll need [Node.js](https://nodejs.org) installed on your computer in order to
 ```bash
 git clone https://github.com/ykhost/rentalx.git
 $ cd rentalx
-$ yarn install
 $ yarn
 $ yarn dev
 ```
