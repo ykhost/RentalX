@@ -15,7 +15,7 @@ RentalX is vehicle rental system
 # Architecture
 
 Proposed architecture for the system
-![rentalx](./github/architecture.png)
+![rentalx](https://xesque.rocketseat.dev/1571029149847-attachment.png)
 
 ##Building
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
